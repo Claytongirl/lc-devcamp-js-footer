@@ -5,7 +5,7 @@
 Install with the following command
 
 ```
-npm instal --save lc-devcamp-js-footer
+npm install --save lc-devcamp-js-footer
 ```
 Add to a JavaScript project with the following code:
 
