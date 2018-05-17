@@ -1,6 +1,6 @@
 {
   "name": "lc-devcamp-js-footer",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "This module allows for a dynamic footer to be generated for js applications with an updated year and name.",
   "main": "index.js",
   "scripts": {
