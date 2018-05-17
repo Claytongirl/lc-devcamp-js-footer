@@ -14,3 +14,6 @@ import { footer } from 'lc-devcamp-js-footer';
 
 footer('Some name');
 ```
+
+
+
